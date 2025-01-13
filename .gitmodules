@@ -1,0 +1,3 @@
+[submodule "syrlex2mqtt"]
+	path = syrlex2mqtt
+	url = git@github.com:Richard-Schaller/syrlex2mqtt.git
